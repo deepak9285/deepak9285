@@ -1,3 +1,4 @@
+![logo](https://github.com/deepak9285/deepak9285/blob/main/R.png)
 <h1 align="center">Hi 👋, I'm Deepak kumar shah</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
