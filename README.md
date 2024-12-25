@@ -4,11 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepak9285&label=Profile%20views&color=0e75b6&style=flat" alt="deepak9285" /> </p>
 
-- 🔭 I’m currently working on **Study Notion**
+- 🔭 I’m currently working on **Amorr**
 
-- 🌱 I’m currently learning **Backend**
-
-- 💬 Ask me about **react,gsap**
+- 💬 Ask me about **Full stack development**
 
 - 📫 How to reach me **kumardeepakshah9285@gmail.com**
 
